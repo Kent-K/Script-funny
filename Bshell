@@ -1,0 +1,35 @@
+#!/bin/bash
+#Script-Funy 
+#Toilet & Figlet 
+#Support for Ubuntu & Debian & Other distributions
+#Kent - K | From X-Group | Hacking Security
+#Figlet
+sudo apt-get install figlet
+$$
+figlet Successfully 
+#Figlet
+#FIGlet is a computer program that generates text banners, in a variety of typefaces, composed of letters made up of conglomerations of smaller   
+#ASCII characters
+
+$$
+# sudo figlet {Your options} {Your-Text}
+      # figlet [ -cklnoprstvxDELNRSWX ] [ -d fontdirectory ]
+      #        [ -f fontfile ] [ -m layoutmode ]
+      #        [ -w outputwidth ] [ -C controlfile ]
+      #       [ -I infocode ] [ message ]
+
+# Font : http://www.figlet.org/fontdb.cgi 
+sudo apt-get install toilet
+$$
+toilet -F gay Kent-K
+#sudo toilet {Your option)|gay (Your-Text}
+# Usage: toilet [ -hkostvSW ] [ -d fontdirectory ]
+#             [ -f fontfile ] [ -F filter ] [ -w outputwidth ]
+#              [ -I infocode ] [ -E format ] [ message ]
+
+$$
+sudo apt-get install sl
+$$
+sl
+figlet Good bye     
+
